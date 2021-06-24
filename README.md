@@ -83,9 +83,11 @@ I am also an open-source enthusiast and contributor. I learned a lot from the op
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishxda" alt="krishxda" /></p>  -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krishxda)](https://github.com/krishxda/github-readme-stats)
+
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krishxda&show_icons=true&locale=en&count_private=true" alt="krishxda" /></p>
 
 <!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=krishxda&show_icons=true&theme=gotham" alt="krishxda" /> -->
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krishxda)](https://github.com/krishxda/github-readme-stats)
