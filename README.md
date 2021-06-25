@@ -3,6 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishxda&label=Profile%20views&color=0e75b6&style=flat" alt="krishxda" /> </p>
 
+
 - Callme: ***He/His*** or ***TeamWorker*** 
 - 🔭 I’m currently working on **CM**
 
@@ -99,4 +100,5 @@ I am also an open-source enthusiast and contributor. I learned a lot from the op
 
 [![Top Langs](https://github-readme-stats-krishxda.vercel.app/api/top-langs/?username=krishxda)](https://github.com/krishxda/github-readme-stats)
 
+[![Latest blog post workflow](https://github.com/krishxda/krishxda/actions/workflows/blog-post-workflow.yml/badge.svg)](https://github.com/krishxda/krishxda/actions/workflows/blog-post-workflow.yml)
 
