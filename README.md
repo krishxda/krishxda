@@ -18,7 +18,13 @@ Hi, I'm [Krish](https://github.com/krishxda/krishxda), a passionate self-taught 
 
 I am also an open-source enthusiast and contributor. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source which has changed the way we operate today.
 
+---
+### Blogs posts
 
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <!-- <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" /> </a> -->
@@ -92,3 +98,5 @@ I am also an open-source enthusiast and contributor. I learned a lot from the op
 <!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=krishxda&show_icons=true&theme=gotham" alt="krishxda" /> -->
 
 [![Top Langs](https://github-readme-stats-krishxda.vercel.app/api/top-langs/?username=krishxda)](https://github.com/krishxda/github-readme-stats)
+
+
