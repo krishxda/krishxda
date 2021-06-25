@@ -76,6 +76,7 @@ I am also an open-source enthusiast and contributor. I learned a lot from the op
   <a href="https://twitter.com/Krishxda" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/krishna-r-68b101102" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://dev.to/krishxda" target="_blank"><img alt="Dev.to" src="https://img.shields.io/badge/dev.to-0A0A0A.svg?&style=for-the-badge&logo=devdotto&logoColor=white" /></a>
+  <a href="mailto:krishxda@gmail.com" target="_blank"><img alt="mail" src="https://img.shields.io/badge/Gmail-EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/krishxda?label=Follow)](https://twitter.com/intent/follow?screen_name=krishxda)
@@ -86,7 +87,7 @@ I am also an open-source enthusiast and contributor. I learned a lot from the op
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-krishxda.vercel.app/api?username=krishxda&show_icons=true&locale=en&count_private=true" alt="krishxda" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-krishxda.vercel.app/api?username=krishxda&show_icons=true&locale=en&count_private=true&hide=contribs,stars&include_all_commits=true&theme=radical" alt="krishxda" /></p>
 
 <!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=krishxda&show_icons=true&theme=gotham" alt="krishxda" /> -->
 
