@@ -74,7 +74,7 @@ I am also an open-source enthusiast and contributor. I learned a lot from the op
 </p>
 
 ---
-***If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈***
+***If you like what I do, maybe consider buying me a coffee/tea 😊👉👈***
 
 <a href="https://buymeacoffee.com/krishxda" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
@@ -82,7 +82,7 @@ I am also an open-source enthusiast and contributor. I learned a lot from the op
 <p>
   <a href="https://github.com/krishxda" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
   <a href="https://twitter.com/Krishxda" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/krishna-r-68b101102" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/krishna-ramesh-68b101102/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://dev.to/krishxda" target="_blank"><img alt="Dev.to" src="https://img.shields.io/badge/dev.to-0A0A0A.svg?&style=for-the-badge&logo=devdotto&logoColor=white" /></a>
   <a href="mailto:krishxda@gmail.com" target="_blank"><img alt="mail" src="https://img.shields.io/badge/Gmail-EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
