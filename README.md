@@ -12,6 +12,7 @@
 - 📫 How to reach me **krishxda@gmail.com**
 
 - ⚡ Fun fact **I listen to songs all day when I work, which I think increases my productivity.**
+- 🧠  I'm learning FullStack Development, AWS
 
 <br />
 
@@ -70,7 +71,12 @@ I am also an open-source enthusiast and contributor. I learned a lot from the op
 <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 <img alt="Bash" src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
 <img alt="VsCode" src="https://img.shields.io/badge/-VsCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+<img alt="jQuery" src="https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" />
+<img alt="flask" src="https://img.shields.io/badge/-flask-000000?style=flat-square&logo=flask&logoColor=white" />
+  <img alt="mongodb" src="https://img.shields.io/badge/-mongodb-47A248?style=flat-square&logo=mongodb&logoColor=white" />
 
+  
+  
 </p>
 
 ---
@@ -96,6 +102,11 @@ I am also an open-source enthusiast and contributor. I learned a lot from the op
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-krishxda.vercel.app/api?username=krishxda&show_icons=true&locale=en&count_private=true&hide=contribs,stars&include_all_commits=true&theme=radical" alt="krishxda" /></p>
+
+<!--
+<a href="http://www.github.com/krishxda"><img src="https://github-readme-stats-krishxda.vercel.app/api?username=krishxda&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="krishxda's GitHub stats" /></a>
+
+<a href="https://github.com/krishxda" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishxda&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> -->
 
 <!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=krishxda&show_icons=true&theme=gotham" alt="krishxda" /> -->
 
