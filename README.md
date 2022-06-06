@@ -16,9 +16,9 @@
 
 <br />
 
-Hi, I'm [Krish](https://github.com/krishxda/krishxda), a passionate self-taught Java developer and a software engineer from India. My passion for software lies in dreaming up ideas and making them come true with elegant solutions. I take great care in the experience, architecture, deployment, and code quality of the things I build.
+Hi, I'm [Krish](https://github.com/krishxda), a passionate self-taught Java developer and a software engineer from India. My passion for software lies in dreaming up ideas and making them come true with elegant solutions. I take great care in the experience, architecture, deployment, and code quality of the things I build.
 
-I am also an open-source enthusiast and contributor. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source which has changed the way we operate today.
+I am also an open-source enthusiast and contributor. I learned a lot from the open-source community and I admire how collaboration and knowledge sharing happened through open-source which has changed the way we operate today.
 
 ---
 ### Blogs posts
