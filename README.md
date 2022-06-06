@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishxda&label=Profile%20views&color=0e75b6&style=flat" alt="krishxda" /> </p>
 
 
-- Callme: ***He/His*** or ***TeamWorker*** 
+- Call me: ***He/His*** or ***TeamWorker*** 
 - 🔭 I’m currently working on **CM**
 
 - 💬 Ask me about **spring-boot, postman, python, REST-API, microservices, SQL, docker** or *Anything you want and I would be happy enough to learn and help you*.
@@ -16,7 +16,7 @@
 
 <br />
 
-Hi, I'm [Krish](https://github.com/krishxda/krishxda), a passionate self-taught Java developer and a software engineer from India. My passion for software lies with dreaming up ideas and making them come true with elegant solutions. I take great care in the experience, architecture, deployment, and code quality of the things I build.
+Hi, I'm [Krish](https://github.com/krishxda/krishxda), a passionate self-taught Java developer and a software engineer from India. My passion for software lies in dreaming up ideas and making them come true with elegant solutions. I take great care in the experience, architecture, deployment, and code quality of the things I build.
 
 I am also an open-source enthusiast and contributor. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source which has changed the way we operate today.
 
