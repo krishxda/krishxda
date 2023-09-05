@@ -3,16 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishxda&label=Profile%20views&color=0e75b6&style=flat" alt="krishxda" /> </p>
 
+-   Call me: **_He/His_** or **_TeamWorker_**
+-   🔭 I’m currently working on **CM**
 
-- Call me: ***He/His*** or ***TeamWorker*** 
-- 🔭 I’m currently working on **CM**
+-   💬 Ask me about **spring-boot, postman, python, REST-API, microservices, SQL, docker** or _Anything you want and I would be happy enough to learn and help you_.
 
-- 💬 Ask me about **spring-boot, postman, python, REST-API, microservices, SQL, docker** or *Anything you want and I would be happy enough to learn and help you*.
+-   📫 How to reach me **krishxda@gmail.com**
 
-- 📫 How to reach me **krishxda@gmail.com**
-
-- ⚡ Fun fact **I listen to songs all day when I work, which I think increases my productivity.**
-- 🧠  I'm learning FullStack Development, AWS
+-   ⚡ Fun fact **I listen to songs all day when I work, which I think increases my productivity.**
+-   🧠 I'm learning FullStack Development, AWS
 
 <br />
 
@@ -21,13 +20,16 @@ Hi, I'm [Krish](https://github.com/krishxda), a passionate self-taught Java deve
 I am also an open-source enthusiast and contributor. I learned a lot from the open-source community and I admire how collaboration and knowledge sharing happened through open-source which has changed the way we operate today.
 
 ---
+
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Keycloak Docker setup tutorial](https://dev.to/krishxda/keycloak-docker-setup-tutorial-16ip)
+
+-   [Keycloak Docker setup tutorial](https://dev.to/krishxda/keycloak-docker-setup-tutorial-16ip)
 <!-- BLOG-POST-LIST:END -->
 
 ---
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <!-- <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" /> </a> -->
@@ -75,31 +77,26 @@ I am also an open-source enthusiast and contributor. I learned a lot from the op
 <img alt="flask" src="https://img.shields.io/badge/-flask-000000?style=flat-square&logo=flask&logoColor=white" />
   <img alt="mongodb" src="https://img.shields.io/badge/-mongodb-47A248?style=flat-square&logo=mongodb&logoColor=white" />
 
-  
-  
 </p>
 
 ---
-***If you like what I do, maybe consider buying me a coffee/tea 😊👉👈***
+
+**_If you like what I do, maybe consider buying me a coffee/tea 😊👉👈_**
 
 <a href="https://buymeacoffee.com/krishxda" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 <h3>Where to find me</h3>
 <p>
   <a href="https://github.com/krishxda" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
-  <a href="https://twitter.com/Krishxda" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://twitter.com/Krishxda" target="_blank"><img alt="X" src="https://img.shields.io/badge/(Formally twitter)-%231DA1F2.svg?&style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/krishna-ramesh-68b101102/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://dev.to/krishxda" target="_blank"><img alt="Dev.to" src="https://img.shields.io/badge/dev.to-0A0A0A.svg?&style=for-the-badge&logo=devdotto&logoColor=white" /></a>
   <a href="mailto:krishxda@gmail.com" target="_blank"><img alt="mail" src="https://img.shields.io/badge/Gmail-EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/krishxda?label=Follow)](https://twitter.com/intent/follow?screen_name=krishxda)
-
+<!-- [![Twitter Follow](https://img.shields.io/twitter/follow/krishxda?label=Follow)](https://twitter.com/intent/follow?screen_name=krishxda) -->
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishxda" alt="krishxda" /></p>  -->
-
-
-
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-krishxda.vercel.app/api?username=krishxda&show_icons=true&locale=en&count_private=true&hide=contribs,stars&include_all_commits=true&theme=radical" alt="krishxda" /></p>
 
@@ -113,4 +110,3 @@ I am also an open-source enthusiast and contributor. I learned a lot from the op
 [![Top Langs](https://github-readme-stats-krishxda.vercel.app/api/top-langs/?username=krishxda)](https://github.com/krishxda/github-readme-stats)
 
 [![Latest blog post workflow](https://github.com/krishxda/krishxda/actions/workflows/blog-post-workflow.yml/badge.svg)](https://github.com/krishxda/krishxda/actions/workflows/blog-post-workflow.yml)
-
