@@ -75,9 +75,11 @@ I am also an open-source enthusiast and contributor. I learned a lot from the op
 <img alt="VsCode" src="https://img.shields.io/badge/-VsCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
 <img alt="jQuery" src="https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" />
 <img alt="flask" src="https://img.shields.io/badge/-flask-000000?style=flat-square&logo=flask&logoColor=white" />
-  <img alt="mongodb" src="https://img.shields.io/badge/-mongodb-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+<img alt="mongodb" src="https://img.shields.io/badge/-mongodb-47A248?style=flat-square&logo=mongodb&logoColor=white" />
 
 </p>
+
+<!-- [![My Skills](https://skillicons.dev/icons?i=java,spring,html,css,wasm)](https://skillicons.dev) -->
 
 ---
 
@@ -98,9 +100,9 @@ I am also an open-source enthusiast and contributor. I learned a lot from the op
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishxda" alt="krishxda" /></p>  -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-krishxda.vercel.app/api?username=krishxda&show_icons=true&locale=en&count_private=true&hide=contribs,stars&include_all_commits=true&theme=radical" alt="krishxda" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats-krishxda.vercel.app/api?username=krishxda&show_icons=true&locale=en&count_private=true&hide=contribs,stars&include_all_commits=true&theme=radical" alt="krishxda" /></p>
 
-[![Krishxda's GitHub stats](https://github-readme-stats-krishxda.vercel.app/api?username=krishxda&show_icons=true&locale=en&count_private=true&include_all_commits=true&hide=stars,contribs)](https://github.com/krishxda)
+[![Krishxda's GitHub stats](https://github-readme-stats-krishxda.vercel.app/api?username=krishxda&show_icons=true&locale=en&include_all_commits=true&hide=stars,contribs)](https://github.com/krishxda) -->
 
 <!--
 <a href="http://www.github.com/krishxda"><img src="https://github-readme-stats-krishxda.vercel.app/api?username=krishxda&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="krishxda's GitHub stats" /></a>
@@ -114,4 +116,3 @@ I am also an open-source enthusiast and contributor. I learned a lot from the op
 <!-- [![Top Langs](https://github-readme-stats-krishxda.vercel.app/api/top-langs/?username=krishxda&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- [![Latest blog post workflow](https://github.com/krishxda/krishxda/actions/workflows/blog-post-workflow.yml/badge.svg)](https://github.com/krishxda/krishxda/actions/workflows/blog-post-workflow.yml) -->
-
