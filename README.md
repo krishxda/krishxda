@@ -98,7 +98,9 @@ I am also an open-source enthusiast and contributor. I learned a lot from the op
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishxda" alt="krishxda" /></p>  -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-krishxda.vercel.app/api?username=krishxda&show_icons=true&locale=en&count_private=true&hide=contribs,stars&include_all_commits=true&theme=radical" alt="krishxda" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats-krishxda.vercel.app/api?username=krishxda&show_icons=true&locale=en&count_private=true&hide=contribs,stars&include_all_commits=true&theme=radical" alt="krishxda" /></p> -->
+
+[![Krishxda's GitHub stats](https://github-readme-stats-krishxda.vercel.app/api?username=krishxda&show_icons=true&locale=en&count_private=true&hide=contribs,stars&include_all_commits=true&)](https://github.com/krishxda)
 
 <!--
 <a href="http://www.github.com/krishxda"><img src="https://github-readme-stats-krishxda.vercel.app/api?username=krishxda&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="krishxda's GitHub stats" /></a>
@@ -107,6 +109,9 @@ I am also an open-source enthusiast and contributor. I learned a lot from the op
 
 <!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=krishxda&show_icons=true&theme=gotham" alt="krishxda" /> -->
 
-[![Top Langs](https://github-readme-stats-krishxda.vercel.app/api/top-langs/?username=krishxda)](https://github.com/krishxda/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats-krishxda.vercel.app/api/top-langs/?username=krishxda)](https://github.com/krishxda/github-readme-stats) -->
 
-[![Latest blog post workflow](https://github.com/krishxda/krishxda/actions/workflows/blog-post-workflow.yml/badge.svg)](https://github.com/krishxda/krishxda/actions/workflows/blog-post-workflow.yml)
+<!-- [![Top Langs](https://github-readme-stats-krishxda.vercel.app/api/top-langs/?username=krishxda&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<!-- [![Latest blog post workflow](https://github.com/krishxda/krishxda/actions/workflows/blog-post-workflow.yml/badge.svg)](https://github.com/krishxda/krishxda/actions/workflows/blog-post-workflow.yml) -->
+
