@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishxda&label=Profile%20views&color=0e75b6&style=flat" alt="krishxda" /> </p>
 
 -   Call me: **_He/His_** or **_TeamWorker_**
--   🔭 I’m currently working on **CM**
+-   🔭 I’m currently working at a product based MNC
 
 -   💬 Ask me about **spring-boot, postman, python, REST-API, microservices, SQL, docker** or _Anything you want and I would be happy enough to learn and help you_.
 
