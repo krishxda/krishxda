@@ -1,21 +1,21 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Krish</h1>
+<h1 align="center">Hi, I'm Krish</h1>
 <h3 align="center">A passionate developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishxda&label=Profile%20views&color=0e75b6&style=flat" alt="krishxda" /> </p>
 
 -   Call me: **_He/His_** or **_TeamWorker_**
--   🔭 I’m currently working at a product based MNC
+-   🔭 I’m currently working at a product based company
 
--   💬 Ask me about **spring-boot, postman, python, REST-API, microservices, SQL, docker** or _Anything you want and I would be happy enough to learn and help you_.
+-   💬 Ask me about **spring-boot, postman, python, REST-API, microservices, SQL, docker** or _Anything you want and I would be happy enough to learn and help you when feasible_.
 
--   📫 How to reach me **krishxda@gmail.com**
+-   ✉️  You can contact me at [krishxda@gmail.com](mailto:krishxda@gmail.com)
 
--   ⚡ Fun fact **I listen to songs all day when I work, which I think increases my productivity.**
 -   🧠 I'm learning FullStack Development, AWS
+-   ⚡ Fun fact **I listen to songs all day when I work, which I think increases my productivity.**
 
 <br />
 
-Hi, I'm [Krish](https://github.com/krishxda), a passionate self-taught Java developer and a software engineer from India. My passion for software lies in dreaming up ideas and making them come true with elegant solutions. I take great care in the experience, architecture, deployment, and code quality of the things I build.
+Hi, I'm [Krish](https://github.com/krishxda), a passionate software engineer from India. My passion for software lies in dreaming up ideas and making them come true with elegant solutions. I take great care in the experience, architecture, deployment, and code quality of the things I build.
 
 I am also an open-source enthusiast and contributor. I learned a lot from the open-source community and I admire how collaboration and knowledge sharing happened through open-source which has changed the way we operate today.
 
@@ -30,7 +30,8 @@ I am also an open-source enthusiast and contributor. I learned a lot from the op
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+<!-- <h3 align="left">Languages and Tools:</h3> -->
+### Languages and Tools:
 <p align="left">
   <!-- <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" /> </a> -->
   <!-- <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" /> </a> -->
@@ -51,31 +52,35 @@ I am also an open-source enthusiast and contributor. I learned a lot from the op
   <!-- <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" /> </a> -->
   <!-- <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40" /> </a> -->
 
+<img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
+<img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 <img alt="SpringBoot" src="https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
 <img alt="PostgreSql" src="https://img.shields.io/badge/-PostgreSql-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-<img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
-<img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-<img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
-<img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img alt="Linux" src="https://img.shields.io/badge/-Linux_Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
-<img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-<img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+<img alt="mongodb" src="https://img.shields.io/badge/-mongodb-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+
+<img alt="AWS" src="https://img.shields.io/badge/-AWS-%23FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
 <img alt="DigitalOcean" src="https://img.shields.io/badge/-DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white" />
 <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
+<img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+<img alt="Linux" src="https://img.shields.io/badge/-Linux_Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
+<img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+<img alt="jenkins" src="https://img.shields.io/badge/-Jenkins-%232C5263?style=flat-square&logo=jenkins&logoColor=white" />
+
 <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
-<img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
-<img alt="Chart.js" src="https://img.shields.io/badge/-Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white" />
 <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+<img alt="jQuery" src="https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" />
 <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
+<img alt="Chart.js" src="https://img.shields.io/badge/-Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white" />
+
+<img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 <img alt="Bash" src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
 <img alt="VsCode" src="https://img.shields.io/badge/-VsCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
-<img alt="jQuery" src="https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" />
-<img alt="flask" src="https://img.shields.io/badge/-flask-000000?style=flat-square&logo=flask&logoColor=white" />
-<img alt="mongodb" src="https://img.shields.io/badge/-mongodb-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+<img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+<img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
+<img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
 
 </p>
 
