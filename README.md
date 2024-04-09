@@ -107,9 +107,9 @@ I am also an open-source enthusiast and contributor. I learned a lot from the op
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats-krishxda.vercel.app/api?username=krishxda&show_icons=true&locale=en&count_private=true&hide=contribs,stars&include_all_commits=true&theme=radical" alt="krishxda" /></p> -->
 
-[![Top Langs](https://github-readme-stats-krishxda.vercel.app/api/top-langs/?username=krishxda&theme=transparent)](https://github.com/krishxda/github-readme-stats)
+[![Top Langs](https://github-readme-stats-green-seven.vercel.app/api/top-langs/?username=krishxda&theme=transparent)](https://github.com/krishxda/github-readme-stats)
 
-[![Krishxda's GitHub stats](https://github-readme-stats-krishxda.vercel.app/api?username=krishxda&show_icons=true&locale=en&include_all_commits=true&hide=stars,contribs&theme=transparent)](https://github.com/krishxda)
+[![Krishxda's GitHub stats](https://github-readme-stats-green-seven.vercel.app/api?username=krishxda&show_icons=true&locale=en&include_all_commits=true&hide=stars,contribs&theme=transparent)](https://github.com/krishxda)
 
 
 <!-- <a href="http://www.github.com/krishxda"><img src="https://github-readme-stats-krishxda.vercel.app/api?username=krishxda&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="krishxda's GitHub stats" /></a> -->
